@@ -462,7 +462,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 .navbar-brand {
   position: relative;
   padding: 0px;
-  background-color: #1260A2;
+  border-radius: 20px;
+  
 }
 
 .top-nav-collapse {
